@@ -20,3 +20,10 @@ SOURCES += main.cpp \
 
 HEADERS += \
     vip.h
+
+OTHER_FILES += \
+    ../../Verklegur 1 önn/Skil_1/Velkomin!.txt \
+    ../../Verklegur 1 önn/Skil_1/Velkomin!.txt \
+    ../../Verklegur 1 önn/Skil_1/Velkomin.txt \
+    ../../Verklegur 1 önn/Skil_1/Velkomin.txt \
+    velkomin.txt
